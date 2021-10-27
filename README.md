@@ -2,7 +2,7 @@
 
 ## Getting Started
 
-Please click at "Launch Binder" to get started. [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hhslepicka/bmad-school-binder/HEAD)
+Please click at "Launch Binder" to get started. [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bmad-sim/bmad-school-binder/HEAD)
 
 ## For Maintainers
 
