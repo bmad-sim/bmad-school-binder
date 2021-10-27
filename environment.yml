@@ -1,0 +1,11 @@
+name: bmad
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - bmad
+  - matplotlib
+  - numpy
+  - scipy
+  - pytao
